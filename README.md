@@ -21,7 +21,7 @@ for f in iemocap/*.csv; do sed -i 's/\/path_to_wavs/\/wav_path/' $f; done
 ```
 
 
-## Minimum effort to run
+## How to run
 ```bash
 bash run.sh
 ```
